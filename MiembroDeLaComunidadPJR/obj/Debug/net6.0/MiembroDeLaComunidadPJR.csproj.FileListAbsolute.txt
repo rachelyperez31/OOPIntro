@@ -1,0 +1,14 @@
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\obj\Debug\net6.0\MiembroDeLaComunidadPJR.GeneratedMSBuildEditorConfig.editorconfig
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\obj\Debug\net6.0\MiembroDeLaComunidadPJR.AssemblyInfoInputs.cache
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\obj\Debug\net6.0\MiembroDeLaComunidadPJR.AssemblyInfo.cs
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\obj\Debug\net6.0\MiembroDeLaComunidadPJR.csproj.CoreCompileInputs.cache
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\bin\Debug\net6.0\MiembroDeLaComunidadPJR.exe
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\bin\Debug\net6.0\MiembroDeLaComunidadPJR.deps.json
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\bin\Debug\net6.0\MiembroDeLaComunidadPJR.runtimeconfig.json
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\bin\Debug\net6.0\MiembroDeLaComunidadPJR.dll
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\bin\Debug\net6.0\MiembroDeLaComunidadPJR.pdb
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\obj\Debug\net6.0\MiembroDeLaComunidadPJR.dll
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\obj\Debug\net6.0\refint\MiembroDeLaComunidadPJR.dll
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\obj\Debug\net6.0\MiembroDeLaComunidadPJR.pdb
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\obj\Debug\net6.0\MiembroDeLaComunidadPJR.genruntimeconfig.cache
+C:\P2\OOPIntro\MiembroDeLaComunidadPJR\obj\Debug\net6.0\ref\MiembroDeLaComunidadPJR.dll
