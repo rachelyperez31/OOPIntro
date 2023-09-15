@@ -21,7 +21,7 @@ namespace MiembroDeLaComunidadPJR.Class
 
         public virtual List<MiembroDeLaComunidad> GetMiembrosDeLaComunidad()
         {
-            Console.WriteLine("Obteniendo miembros de la comunidad...");
+            Console.WriteLine("Obteniendo...");
             return new List<MiembroDeLaComunidad>();
         }
 

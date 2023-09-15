@@ -1,6 +1,6 @@
 ﻿namespace MiembroDeLaComunidadPJR.Class
 {
-    public class Empleado : MiembroDeLaComunidad
+    public abstract class Empleado : MiembroDeLaComunidad
     {
         public string? Cargo { get; set; }
         public string? Departamento { get; set; }
